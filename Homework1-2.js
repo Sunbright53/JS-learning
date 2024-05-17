@@ -6,6 +6,8 @@ console.log(fahrenheit);
 const dog = 10;
 const cat = 20;
 console.log(dog + cat);
+console.log(typeof dog);
+console.log(typeof cat);
 
 let fish = 5;
 let cow = 4;
