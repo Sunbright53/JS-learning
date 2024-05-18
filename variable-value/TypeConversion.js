@@ -19,3 +19,17 @@ console.log(messageofMe);
 console.log(typeof sukiTeenoi);
 console.log(typeof Oshine);
 console.log(typeof messageofMe);
+
+let DrinkingWater = 0;
+let Sparking = 18;
+let greenTea = "20";
+let greenTeaBrand = `Oishi greentea lamon`;
+let DrinkingWaterbrand = `Singha`;
+let Sparkingbrand = `Pepsi`;
+let sentent = `What are you offering today? \nWe have ${greenTeaBrand}, ${Sparkingbrand} and water brand ${DrinkingWaterbrand}. \nWhat do you want ser? Give me ${Sparking} and ${greenTea}, please. \nAll of this is ${
+  Sparking + Number(greenTea)
+}. \nthank you.`;
+console.log(sentent);
+console.log(typeof sentent);
+console.log(typeof greenTea);
+console.log(typeof Sparking);
