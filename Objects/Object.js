@@ -74,3 +74,4 @@ Course2["Price"] = 4576;
 Course3.Price = 2755;
 console.log(Course1["Price"]);
 console.log(Course2);
+console.log(Course3);
